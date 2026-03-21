@@ -2,7 +2,7 @@ streamlit
 requests
 aiohttp
 pycryptodomex
-user-agent
+user_agent
 groq
 bcrypt
 python-dotenv
