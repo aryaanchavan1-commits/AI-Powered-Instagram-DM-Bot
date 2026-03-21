@@ -163,9 +163,6 @@ This bot is for educational purposes only. Use it responsibly and in accordance 
 
 For issues and questions, please check the troubleshooting section or create an issue in the repository.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## contact
 
