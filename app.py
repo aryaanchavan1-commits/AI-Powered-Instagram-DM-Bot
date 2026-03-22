@@ -4,11 +4,11 @@ import json
 import os
 import time
 from datetime import datetime
-from wezaxy.user_db import UserDatabase
-from wezaxy.message_storage import MessageStorage
-from wezaxy.groq_ai import GroqAI
-from wezaxy.login import InstagramLogin
-from wezaxy.sendmessage import mesj
+from aryan.user_db import UserDatabase
+from aryan.message_storage import MessageStorage
+from aryan.groq_ai import GroqAI
+from aryan.login import InstagramLogin
+from aryan.sendmessage import mesj
 import threading
 import requests
 
