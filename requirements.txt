@@ -1,9 +1,0 @@
-streamlit
-requests
-aiohttp
-pycryptodomex
-user_agent
-groq
-bcrypt
-python-dotenv
-mysql-connector-python
